@@ -28,7 +28,7 @@ The Smart Plantation System automates tasks that would otherwise require constan
 * **Blynk App:** Used to design the mobile application, connect IoT devices, and generate weekly data reports].
 
 ## 📊 System Architecture
-![Alt text](images/diagram.jpg)
+![Alt text](images/diagram.png)
 
 ## 🧪 Evaluation & Testing
 To ensure reliability, we employed several evaluation methods:
